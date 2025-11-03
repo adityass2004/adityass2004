@@ -9,14 +9,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;Turning+wild+ideas+into+code;Always+learning+something+new!;Welcome+to+my+digital+universe!)](https://git.io/typing-svg)
 
----
+<!-- --- -->
 
-## 📊 Profile Metrics
+<!-- ## 📊 Profile Metrics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=as6769-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Visit Count](https://visitcount.itsvg.in/api?id=as6769-2004&icon=5&color=6)
 ![Followers](https://img.shields.io/github/followers/as6769-2004?label=Followers&style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/as6769-2004?style=for-the-badge&color=yellow)
+![Stars](https://img.shields.io/github/stars/as6769-2004?style=for-the-badge&color=yellow) -->
 
 ---
 
