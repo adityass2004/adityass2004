@@ -1,184 +1,235 @@
-<!-- 🚀✨ S C I - F I   D E V   P R O F I L E ✨🚀 -->
-<div align="center" style="background: linear-gradient(120deg, #181a1b 0%, #232526 100%); border-radius: 24px; box-shadow: 0 0 32px #222, 0 8px 32px #0008; padding: 2.5rem 1rem 2rem 1rem; margin-bottom: 2rem; color: #fff; font-family: 'Orbitron', 'Segoe UI', 'Arial', sans-serif; border: 2px solid #333;">
 
-  <h1 style="font-size:2.8rem; letter-spacing:2px; margin-bottom:0.2em;">Aditya Sagar Sharma</h1>
-  <p style="font-size:1.3rem; color:#ccc; margin-bottom:1.5em;">Full Stack Dev | AI/ML Enthusiast | Sci-Fi Coder 🚀</p>
-  <pre style="color:#ccc; font-size:1.1rem; margin-bottom:1.5em; background:transparent; border:none;">{ "code": "Dream. Build. Repeat." }</pre>
+#  Aditya Sagar Sharma 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;Turning+wild+ideas+into+code;Always+learning+something+new!" alt="Typing SVG" style="margin-bottom:2em;"/>
+### Full Stack Dev | AI/ML Enthusiast | Sci-Fi Coder
 
-  <hr style="border:1px solid #333; margin:2em 0;">
+```json
+{ "code": "Dream. Build. Repeat." }
+```
 
-  <h2 style="color:#fff;">🪐 Quick Facts</h2>
-  <table align="center" style="margin:auto; font-size:1.1rem; color:#eee;">
-    <tr>
-      <td>🌍</td><td>Muzaffarpur, Bihar, India</td>
-    </tr>
-    <tr>
-      <td>🧑‍💻</td><td>Full Stack Developer & AI/ML Integrator</td>
-    </tr>
-    <tr>
-      <td>🛠️</td><td>React, Python, Node.js, Flutter, PostgreSQL, TensorFlow</td>
-    </tr>
-    <tr>
-      <td>🚀</td><td>Love building practical, AI-powered solutions</td>
-    </tr>
-    <tr>
-      <td>☕</td><td>Fueled by caffeine and curiosity</td>
-    </tr>
-  </table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;Turning+wild+ideas+into+code;Always+learning+something+new!;Welcome+to+my+digital+universe!)](https://git.io/typing-svg)
 
-  <hr style="border:1px solid #333; margin:2em 0;">
+---
 
-  <h2 style="color:#fff;">🧰 Tech Arsenal</h2>
-  <table align="center">
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><br/>React</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br/>Python</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>Node.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br/>JavaScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><br/>HTML5</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><br/>CSS3</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS"/><br/>TailwindCSS</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/><br/>PostgreSQL</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/><br/>MongoDB</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/><br/>TensorFlow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><br/>Docker</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br/>Git</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/><br/>Figma</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/><br/>Flutter</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br/>Java</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/><br/>C</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br/>C++</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br/>MySQL</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/><br/>Express</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/><br/>Flask</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/><br/>Django</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/><br/>Next.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/><br/>React Native</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/><br/>PyTorch</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/><br/>scikit-learn</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/><br/>Pandas</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/><br/>NumPy</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/><br/>Keras</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/><br/>Matplotlib</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/><br/>OpenCV</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit"/><br/>Streamlit</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br/>Firebase</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/><br/>Google Cloud</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku"/><br/>Heroku</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel"/><br/>Vercel</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br/>Anaconda</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="Deno"/><br/>Deno</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/><br/>NPM</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js"/><br/>Chart.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" height="40" alt="Adobe"/><br/>Adobe</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/><br/>Canva</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".Net"/><br/>.Net</td>
-    </tr>
-  </table>
+## 📊 Profile Metrics
 
-  <hr style="border:1px solid #333; margin:2em 0;">
+![Profile Views](https://komarev.com/ghpvc/?username=as6769-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Visit Count](https://visitcount.itsvg.in/api?id=as6769-2004&icon=5&color=6)
+![Followers](https://img.shields.io/github/followers/as6769-2004?label=Followers&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/as6769-2004?style=for-the-badge&color=yellow)
 
-  <h2 style="color:#fff;">🌟 Featured Projects</h2>
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:2em;">
-    <a href="https://github.com/as6769-2004/symptom-analyzer-ml-ai" style="text-decoration:none;">
-      <div style="background:#232526; border-radius:12px; padding:1em 1.5em; margin:1em; box-shadow:0 0 12px #222; min-width:220px; max-width:320px; color:#fff;">
-        <h3>🤖 Symptom Analyzer</h3>
-        <p style="font-size:0.95em;">AI-powered health assistant using ML & Ollama AI</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-          <img src="https://img.shields.io/badge/ML-yellow?style=flat-square"/>
-        </p>
-        <p>
-          <a href="https://symptom-analyzer-ml-ai.vercel.app" style="color:#61dafb; text-decoration:none; font-size:0.95em;">
-            🌐 Live Demo
-          </a>
-        </p>
-      </div>
-    </a>
-    <a href="https://github.com/as6769-2004/Smart-Plant-Watering" style="text-decoration:none;">
-      <div style="background:#232526; border-radius:12px; padding:1em 1.5em; margin:1em; box-shadow:0 0 12px #222; min-width:220px; max-width:320px; color:#fff;">
-        <h3>💧 Soil Moisture & Pump</h3>
-        <p style="font-size:0.95em;">IoT-based smart watering system</p>
-        <p>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-        </p>
-        <p>
-          <a href="https://github.com/as6769-2004/Smart-Plant-Watering" style="color:#61dafb; text-decoration:none; font-size:0.95em;">
-            🌐 Repo Only
-          </a>
-        </p>
-      </div>
-    </a>
-    <a href="https://adityass-portfolio.netlify.app/" style="text-decoration:none;">
-      <div style="background:#232526; border-radius:12px; padding:1em 1.5em; margin:1em; box-shadow:0 0 12px #222; min-width:220px; max-width:320px; color:#fff;">
-        <h3>🖥️ Portfolio Website</h3>
-        <p style="font-size:0.95em;">Modern, responsive portfolio</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        </p>
-        <p>
-          <a href="https://adityass-portfolio.netlify.app/" style="color:#61dafb; text-decoration:none; font-size:0.95em;">
-            🌐 Live Demo
-          </a>
-        </p>
-      </div>
-    </a>
-  </div>
+---
 
-  <hr style="border:1px solid #333; margin:2em 0;">
+## 🪐 Quick Facts
 
-  <h2 style="color:#fff;">🔗 Connect with Me</h2>
-  <p>
-    <a href="mailto:adityasagar9991@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/aditya-sagar-sharma-1955a7288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/as6769-2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://instagram.com/adityass0401"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://adityass-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  </p>
+| | |
+|---|---|
+| 🌍 | **Location:** Muzaffarpur, Bihar, India |
+| 🧑‍💻 | **Role:** Full Stack Developer & AI/ML Integrator |
+| 🛠️ | **Tech Stack:** React, Python, Node.js, Flutter, PostgreSQL, TensorFlow |
+| 🚀 | **Passion:** Building practical, AI-powered solutions |
+| ☕ | **Fuel:** Caffeine and curiosity |
+| 📚 | **Currently Learning:** Advanced ML algorithms, Cloud Architecture |
+| 💬 | **Ask me about:** React, Python, AI/ML, Full Stack Development |
+| 🎯 | **2024 Goals:** Contribute to Open Source, Build 10+ AI projects |
 
+---
 
+## 💪 Tech Arsenal
 
-  <hr style="border:1px solid #333; margin:2em 0;">
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  <h2 style="color:#fff;">📈 Stats & Trophies</h2>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1.5em; align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=as6769-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="border-radius:12px; min-width:300px; max-width:400px; box-shadow:0 2px 12px #222;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=as6769-2004&theme=dark&hide_border=true" alt="GitHub Streak" style="border-radius:12px; min-width:300px; max-width:400px; box-shadow:0 2px 12px #222;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as6769-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border-radius:12px; min-width:300px; max-width:400px; box-shadow:0 2px 12px #222;">
-  </div>
-  <div style="display:flex; justify-content:center; margin-top:1.5em;">
-    <img src="https://github-profile-trophy.vercel.app/?username=as6769-2004&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" style="margin:auto;">
-  </div>
-  <div style="display:flex; justify-content:center; margin-top:1.5em;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" style="margin:auto; border-radius:8px;">
-  </div>
-  <div style="display:flex; justify-content:center; margin-top:1.5em;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=as6769-2004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="margin:auto; border-radius:8px;">
-  </div>
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-  <!-- Contribution Graph Section -->
-  <hr style="border:1px solid #333; margin:2em 0;">
-  <h2 style="color:#fff;">🖇️ Contribution Graph</h2>
-  <div style="display:flex; justify-content:center; margin-top:1.5em;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=as6769-2004&theme=react-dark&hide_border=true" alt="Contribution Graph" style="margin:auto; border-radius:12px; box-shadow:0 0 8px #999;">
-  </div>
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
- 
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [Symptom Analyzer ML/AI](https://github.com/as6769-2004/symptom-analyzer-ml-ai)
+
+AI-powered health assistant using Machine Learning & Ollama AI for accurate symptom analysis and health recommendations.
+
+**Tech Stack:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- ![ML](https://img.shields.io/badge/-Machine%20Learning-yellow?style=flat-square)
+
+🌐 **[Live Demo](https://symptom-analyzer-ml-ai.vercel.app)** | 📂 **[Repository](https://github.com/as6769-2004/symptom-analyzer-ml-ai)**
+
+</td>
+<td width="50%">
+
+### 💧 [Smart Plant Watering System](https://github.com/as6769-2004/Smart-Plant-Watering)
+
+IoT-based automated plant watering system with real-time soil moisture monitoring and smart pump control.
+
+**Tech Stack:**
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![IoT](https://img.shields.io/badge/-IoT-green?style=flat-square)
+
+📂 **[Repository](https://github.com/as6769-2004/Smart-Plant-Watering)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖥️ [Portfolio Website](https://adityass-portfolio.netlify.app/)
+
+Modern, responsive personal portfolio with smooth animations, interactive UI elements, and comprehensive project showcase.
+
+**Tech Stack:**
+- ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+🌐 **[Live Demo](https://adityass-portfolio.netlify.app/)**
+
+</td>
+<td width="50%">
+
+### 🔮 More Projects Coming Soon...
+
+Currently working on exciting new projects involving:
+- 🤖 Advanced AI Chatbots
+- 📊 Data Visualization Dashboards
+- 🌐 Full Stack Web Applications
+- 📱 Mobile App Development
+
+**Stay tuned!** ⭐
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=as6769-2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as6769-2004&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=as6769-2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=as6769-2004&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as6769-2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/as6769-2004/symptom-analyzer-ml-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as6769-2004&repo=symptom-analyzer-ml-ai&theme=radical&hide_border=true" alt="Symptom Analyzer"/>
+  </a>
+  <a href="https://github.com/as6769-2004/Smart-Plant-Watering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as6769-2004&repo=Smart-Plant-Watering&theme=radical&hide_border=true" alt="Smart Plant Watering"/>
+  </a>
+</div>
+
+---
+
+## 📅 Detailed Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as6769-2004&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=as6769-2004&theme=radical" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=as6769-2004&theme=radical" alt="Most Commit Language"/>
+</div>
+
+---
+
+## 🎯 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=as6769-2004&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+</div>
+
+---
+
+## 🌟 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=as6769-2004&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</div>
+
+---
+<!-- 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/as6769-2004/as6769-2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/as6769-2004/as6769-2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div> -->
