@@ -13,10 +13,10 @@
 
 <!-- ## 📊 Profile Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=as6769-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Visit Count](https://visitcount.itsvg.in/api?id=as6769-2004&icon=5&color=6)
-![Followers](https://img.shields.io/github/followers/as6769-2004?label=Followers&style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/as6769-2004?style=for-the-badge&color=yellow) -->
+![Profile Views](https://komarev.com/ghpvc/?username=adityass2004&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Visit Count](https://visitcount.itsvg.in/api?id=adityass2004&icon=5&color=6)
+![Followers](https://img.shields.io/github/followers/adityass2004?label=Followers&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/adityass2004?style=for-the-badge&color=yellow) -->
 
 ---
 
@@ -92,7 +92,7 @@
 <tr>
 <td width="50%">
 
-### 🤖 [Symptom Analyzer ML/AI](https://github.com/as6769-2004/symptom-analyzer-ml-ai)
+### 🤖 [Symptom Analyzer ML/AI](https://github.com/adityass2004/symptom-analyzer-ml-ai)
 
 AI-powered health assistant using Machine Learning & Ollama AI for accurate symptom analysis and health recommendations.
 
@@ -101,12 +101,12 @@ AI-powered health assistant using Machine Learning & Ollama AI for accurate symp
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 - ![ML](https://img.shields.io/badge/-Machine%20Learning-yellow?style=flat-square)
 
-🌐 **[Live Demo](https://symptom-analyzer-ml-ai.vercel.app)** | 📂 **[Repository](https://github.com/as6769-2004/symptom-analyzer-ml-ai)**
+🌐 **[Live Demo](https://symptom-analyzer-ml-ai.vercel.app)** | 📂 **[Repository](https://github.com/adityass2004/symptom-analyzer-ml-ai)**
 
 </td>
 <td width="50%">
 
-### 💧 [Smart Plant Watering System](https://github.com/as6769-2004/Smart-Plant-Watering)
+### 💧 [Smart Plant Watering System](https://github.com/adityass2004/Smart-Plant-Watering)
 
 IoT-based automated plant watering system with real-time soil moisture monitoring and smart pump control.
 
@@ -115,7 +115,7 @@ IoT-based automated plant watering system with real-time soil moisture monitorin
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![IoT](https://img.shields.io/badge/-IoT-green?style=flat-square)
 
-📂 **[Repository](https://github.com/as6769-2004/Smart-Plant-Watering)**
+📂 **[Repository](https://github.com/adityass2004/Smart-Plant-Watering)**
 
 </td>
 </tr>
@@ -156,12 +156,12 @@ Currently working on exciting new projects involving:
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=as6769-2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as6769-2004&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityass2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityass2004&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=as6769-2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adityass2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -169,7 +169,7 @@ Currently working on exciting new projects involving:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=as6769-2004&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityass2004&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -177,7 +177,7 @@ Currently working on exciting new projects involving:
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as6769-2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityass2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -185,11 +185,11 @@ Currently working on exciting new projects involving:
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/as6769-2004/symptom-analyzer-ml-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as6769-2004&repo=symptom-analyzer-ml-ai&theme=radical&hide_border=true" alt="Symptom Analyzer"/>
+  <a href="https://github.com/adityass2004/symptom-analyzer-ml-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityass2004&repo=symptom-analyzer-ml-ai&theme=radical&hide_border=true" alt="Symptom Analyzer"/>
   </a>
-  <a href="https://github.com/as6769-2004/Smart-Plant-Watering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as6769-2004&repo=Smart-Plant-Watering&theme=radical&hide_border=true" alt="Smart Plant Watering"/>
+  <a href="https://github.com/adityass2004/Smart-Plant-Watering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityass2004&repo=Smart-Plant-Watering&theme=radical&hide_border=true" alt="Smart Plant Watering"/>
   </a>
 </div>
 
@@ -198,12 +198,12 @@ Currently working on exciting new projects involving:
 ## 📅 Detailed Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as6769-2004&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityass2004&theme=radical" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=as6769-2004&theme=radical" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=as6769-2004&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityass2004&theme=radical" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityass2004&theme=radical" alt="Most Commit Language"/>
 </div>
 
 ---
@@ -211,7 +211,7 @@ Currently working on exciting new projects involving:
 ## 🎯 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=as6769-2004&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityass2004&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
@@ -219,7 +219,7 @@ Currently working on exciting new projects involving:
 ## 🌟 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=as6769-2004&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=adityass2004&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
@@ -227,9 +227,9 @@ Currently working on exciting new projects involving:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/as6769-2004/as6769-2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github.com/adityass2004/adityass2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/as6769-2004/as6769-2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github.com/adityass2004/adityass2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div> -->
