@@ -157,7 +157,6 @@ Currently working on exciting new projects involving:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=adityass2004&show_icons=true&theme=radical"/>
-  <img height="180em" src=""/>
 </p>
 
 <div align="center">
