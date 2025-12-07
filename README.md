@@ -7,9 +7,8 @@
 { "code": "Dream. Build. Repeat." }
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;Turning+wild+ideas+into+code;Always+learning+something+new!;Welcome+to+my+digital+universe!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;Turning+wild+ideas+into+code;Always+learning+something+new!;Welcome+to+my+digital+universe!)](https://git.io/typing-svg)
 
-<!-- --- -->
 
 <!-- ## 📊 Profile Metrics
 
@@ -18,7 +17,6 @@
 ![Followers](https://img.shields.io/github/followers/adityass2004?label=Followers&style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/adityass2004?style=for-the-badge&color=yellow) -->
 
----
 
 ## 🪐 Quick Facts
 
@@ -180,7 +178,7 @@ Currently working on exciting new projects involving:
 </div>
 
 ---
-
+<!-- 
 ## 📌 Pinned Repositories
 
 <div align="center">
@@ -190,7 +188,7 @@ Currently working on exciting new projects involving:
   <a href="https://github.com/adityass2004/Smart-Plant-Watering">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityass2004&repo=Smart-Plant-Watering&theme=radical&hide_border=true" alt="Smart Plant Watering"/>
   </a>
-</div>
+</div> -->
 
 ---
 
